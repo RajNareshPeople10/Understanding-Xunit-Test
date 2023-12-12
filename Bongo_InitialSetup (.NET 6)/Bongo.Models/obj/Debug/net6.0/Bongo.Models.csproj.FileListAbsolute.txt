@@ -1,0 +1,11 @@
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\bin\Debug\net6.0\Bongo.Models.deps.json
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\bin\Debug\net6.0\Bongo.Models.dll
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\bin\Debug\net6.0\Bongo.Models.pdb
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfoInputs.cache
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfo.cs
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.csproj.CoreCompileInputs.cache
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.dll
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\refint\Bongo.Models.dll
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\Bongo.Models.pdb
+C:\Users\P10\Desktop\Learning\UnitTestingSparky\Sparky\Bongo_InitialSetup (.NET 6)\Bongo.Models\obj\Debug\net6.0\ref\Bongo.Models.dll
